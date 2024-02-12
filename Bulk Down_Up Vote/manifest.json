@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Bulk Element Selector/Clicker",
-    "version": "1.0",
+    "version": "2",
     "description": "The Bulk Element Selector/Clicker simplifies web element interactions and automates tasks through a user-friendly graphical interface. With intuitive features like mouse click actions, element selection,  Reset Selection button, and a draggable GUI popup,  users can efficiently perform tasks and customize their actions. The purpose of this program is to allow the user the Mass Downvote or Upvote Reddit posts and comments.",
     
     "permissions": [
@@ -9,7 +9,7 @@
     ],
     "browser_action": {
         "default_icon": {
-            "48": "icon.png"
+            "48": "Untitled.jpeg"
         }
     },
     "background": {
